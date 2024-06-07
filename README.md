@@ -1,36 +1,57 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Plastic Beach: Plataforma de Monitoramento e Gestão de Resíduos Plásticos nos Oceanos
 
-## Getting Started
+## Resumo
 
-First, run the development server:
+Este projeto apresenta o *Plastic Beach*, uma plataforma web para monitorar e gerenciar resíduos plásticos nos oceanos. A plataforma fornece dados sobre produção de plástico, despejo de resíduos e desperdício per capita, promovendo práticas sustentáveis e colaboração entre governos, empresas e comunidades locais.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## _Sumário_
+1. **Funcionalidades**
+2. **Introdução**
+3. **Desenvolvimento**
+   - Descrição Geral do Projeto
+     - Página Inicial
+     - Página de Dados
+     - Página de Relatórios
+     - Página de Comunidade
+     - Página de Cadastro
+4. **Metodologia**
+5. **Resultados Esperados**
+6. **Conclusão**
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 
+## Funcionalidades
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Página Inicial**: Visão geral do problema dos resíduos plásticos nos oceanos e informações sobre a missão e objetivos do projeto.
+- **Página de Dados**: Gráficos e visualizações interativas sobre produção de plástico, despejo de resíduos e desperdício per capita, integrados com uma API externa.
+- **Página de Relatórios**: Relatórios e previsões sobre tendências futuras de produção e despejo de plástico, gerados com inteligência artificial.
+- **Página de Comunidade**: Fórum de discussões e compartilhamento de iniciativas locais, integrado com a API do Twitter.
+- **Página de Cadastro**: Registro de usuários para participação na comunidade, com autenticação de dados.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+##
+## Estrutura do Projeto
+     - Página Inicial
+     - Página de Dados
+     - Página de Relatórios
+     - Página de Comunidade
+     - Página de Cadastro
 
-## Learn More
+##
+## Metodologia
 
-To learn more about Next.js, take a look at the following resources:
+O desenvolvimento da plataforma inclui a coleta e análise de dados sobre a produção e o despejo de plásticos, criação de visualizações interativas e implementação de algoritmos de inteligência artificial para previsões de tendências. Técnicas de design centrado no usuário foram utilizadas para garantir a usabilidade da plataforma.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+##
+## Resultados Esperados
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Espera-se que a plataforma *Plastic Beach* contribua para a conscientização sobre a poluição por plásticos e promova práticas sustentáveis, facilitando a colaboração entre diferentes setores da sociedade e fornecendo dados valiosos para políticas ambientais.
 
-## Deploy on Vercel
+##
+## Conclusão
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+O *Plastic Beach* oferece uma abordagem inovadora para monitorar e gerenciar resíduos plásticos nos oceanos, combinando tecnologia de dados com sustentabilidade e colaboração social. A plataforma proporciona informações detalhadas e atualizadas, utilizando gráficos interativos e análises preditivas para orientar políticas e ações ambientais, além de fomentar a participação da comunidade em iniciativas locais.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+##
+## Contato
+Para mais informações, entre em contato com Alissa Cezero em cezeroa@gmail.com ;b
